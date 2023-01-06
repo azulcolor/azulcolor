@@ -4,6 +4,14 @@
 
 I'm a full-stack and app developer who is in searching of new experiences in the world and expand my knowledge about life and coding.
 
+### About me
+
+- 🖌️ I really enjoy design minimalist apps and web pages.
+- ✈️ I like traveling and meet new countries and places.
+- 🐈 I love animals but especially monkies (as you can see in my name's part :D)
+- 🎤 One of my passions is singing
+
+
 ### Programming Languages and Tools 😃
 
 <img align='left' alt='JavaScript' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -18,9 +26,3 @@ I'm a full-stack and app developer who is in searching of new experiences in the
 <img align='left' alt='MySQL' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align='left' alt='Git' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align='left' alt='Java' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-
-
-
-
-
