@@ -6,7 +6,6 @@ I'm a full-stack and app developer who is in searching of new experiences in the
 
 ### Programming Languages and Tools 😃
 
-<br/>
 <img align='left' alt='JavaScript' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align='left' alt='React' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align='left' alt='NextJs' width='24px' style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
